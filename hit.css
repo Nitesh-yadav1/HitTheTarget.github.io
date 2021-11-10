@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+  }
+  .btn3{
+  width: 90px;
+  text-align: center;
+  margin-left: 250px;
+  overflow: hidden;
+  background-color: blue;
+  
+  }
+  .ply1{
+  
+    margin-left: 250px;
+    margin-top: 10px;
+  }
+  
+   .ply2{
+      margin-left: 250px;
+    margin-top: 10px;
+   }
+  
